@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="CrimsonText-BoldItalic.ttf.GlyphOrder.ttx"/>
+  <head src="CrimsonText-BoldItalic.ttf._h_e_a_d.ttx"/>
+  <hhea src="CrimsonText-BoldItalic.ttf._h_h_e_a.ttx"/>
+  <maxp src="CrimsonText-BoldItalic.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="CrimsonText-BoldItalic.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="CrimsonText-BoldItalic.ttf._h_m_t_x.ttx"/>
+  <cmap src="CrimsonText-BoldItalic.ttf._c_m_a_p.ttx"/>
+  <fpgm src="CrimsonText-BoldItalic.ttf._f_p_g_m.ttx"/>
+  <prep src="CrimsonText-BoldItalic.ttf._p_r_e_p.ttx"/>
+  <cvt src="CrimsonText-BoldItalic.ttf._c_v_t.ttx"/>
+  <loca src="CrimsonText-BoldItalic.ttf._l_o_c_a.ttx"/>
+  <glyf src="CrimsonText-BoldItalic.ttf._g_l_y_f.ttx"/>
+  <name src="CrimsonText-BoldItalic.ttf._n_a_m_e.ttx"/>
+  <post src="CrimsonText-BoldItalic.ttf._p_o_s_t.ttx"/>
+  <gasp src="CrimsonText-BoldItalic.ttf._g_a_s_p.ttx"/>
+  <FFTM src="CrimsonText-BoldItalic.ttf.F_F_T_M_.ttx"/>
+  <GDEF src="CrimsonText-BoldItalic.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="CrimsonText-BoldItalic.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="CrimsonText-BoldItalic.ttf.G_S_U_B_.ttx"/>
+  <webf src="CrimsonText-BoldItalic.ttf._w_e_b_f.ttx"/>
+</ttFont>
