@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [CrimsonText-Italic.ttf.ttx, CrimsonText-Bold.ttf.ttx, CrimsonText-Regular.ttf.ttx,
+  CrimsonText-SemiboldItalic.ttf.ttx, CrimsonText-Semibold.ttf.ttx, CrimsonText-BoldItalic.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
